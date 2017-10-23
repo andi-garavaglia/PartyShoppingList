@@ -3,3 +3,8 @@ Coke
 Diet Coke
 Sprite
 Tonic Water
+
+--Juices--
+Apple
+Blood Orange
+Grape
