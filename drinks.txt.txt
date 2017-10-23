@@ -1,1 +1,5 @@
-drinks.txt
+Ginger Ale
+Coke
+Diet Coke
+Sprite
+Tonic Water
